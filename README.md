@@ -1,3 +1,10 @@
-## boa vindas
 
-meu nome e Tayla Maria
+Boas vindas ao meu perfil 💙💙
+Meu nome é Tayla maria da Luz
+
+Estou estudando na Alura
+Estou me desenvolvendo na linguagem JavaScript
+Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+
+Você pode entrar em contato comigo 📫
+@tayla.maria.luz@escola.pr.gov.br
